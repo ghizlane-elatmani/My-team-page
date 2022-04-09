@@ -38,7 +38,7 @@
 
 ![My Image](img/my-team-page.png)
 
-This page of the member crew can be found here: "". Thanks to that challenge, I learn more tricks about css like how to vertically align a text or how to select a specific child of a component.
+This page of the member crew can be found here: "https://my-team-page-ge.netlify.app/". Thanks to that challenge, I learn more tricks about css like how to vertically align a text or how to select a specific child of a component.
 And I hope to make more beautifuls websites and become an expert in front-end developmemt :)
 
 ### Built With
@@ -56,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://my-team-page-ge.netlify.app/)
 - GitHub [@ghizlane-elatmani](https://github.com/ghizlane-elatmani)
